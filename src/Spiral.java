@@ -1,7 +1,6 @@
 /*
-Output the matrix of size n \times nn×n, filled by the integers from 11 to n^2n
-        2
-        in a spiral, coming from the top left corner and twisted clockwise, as shown in the example (here n=5n=5).
+Output the matrix of size n \times nn×n, filled by the integers from 1 to n^2 in a spiral, coming from
+the top left corner and twisted clockwise.
 */
 import java.util.Scanner;
 
